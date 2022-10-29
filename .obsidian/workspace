@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4-Refuerzo-de-JavaScript.md",
+            "file": "Node course/Notes/7-yargs.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Refuerzo-de-JavaScript.md",
+                "file": "Node course/Notes/7-yargs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Refuerzo-de-JavaScript.md",
+                "file": "Node course/Notes/7-yargs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Refuerzo-de-JavaScript.md"
+                "file": "Node course/Notes/7-yargs.md"
               }
             }
           }
@@ -130,12 +130,14 @@
   },
   "active": "69a82296fc1075e4",
   "lastOpenFiles": [
+    "Node course/Notes/6-NPM-y-aplicaciones.md",
+    "Node course/Notes/5-Bases-node.md",
+    "Node course/Notes/1-Blocking-vs-non-blocking.md",
+    "Node course/Notes/4-Refuerzo-de-JavaScript.md",
     "5-Funciones-de-flecha.md",
     "README.md",
-    "4-Refuerzo-de-JavaScript.md",
-    "3-Nodemon.md",
-    "2-Ciclo-de-vida-de-un-proceso-en-Node.md",
-    "Pasted image 20221010045257.png",
-    "1-Blocking-vs-non-blocking.md"
+    "Node course/Notes/3-Nodemon.md",
+    "Node course/Notes/2-Ciclo-de-vida-de-un-proceso-en-Node.md",
+    "Pasted image 20221010045257.png"
   ]
 }
