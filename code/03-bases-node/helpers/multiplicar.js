@@ -13,7 +13,7 @@ const crearArchivo = async( base = 1, hasta = 10, listar = false ) => {
             salida += `${base} x ${i} = ${ base * i } \n`;
         }
 
-        fs.writeFileSync(`tabla-${base}.txt`, salida );
+        fs.writeFileSync(`./salida/tabla-${base}.txt`, salida );
         if (listar)
             console.log(salida)
         return (`tabla-${base}.txt`);
