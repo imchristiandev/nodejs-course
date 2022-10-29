@@ -1,22 +1,11 @@
-const fs = require('fs')
+const colors = require('colors')
+const argv = require('./config/yargs.js')
+
+const { crearArchivo } = require('./helpers/multiplicar')
 
 console.clear();
 
-const base = 3;
-let salida = ''
-
-salida += (`
-=======================
-     Tabla del ${base}
-=======================\n`);
-
-for( let i = 1; i <= 10; i++ ) {
-    salida += `${base} x ${i} = ${ base * i } \n`;
-}
-
-console.log(salida);
-
-fs.writeFile(`tabla-${base}.txt`, salida, (err) => {
-    if(err) throw err;
-    console.log(`tabla-${base}.txt creado correctamente`);
-});
+console.log(argv);
+crearArchivo( argv.b, argv.h, argv.l )
+    .then( nombreArchivo => console.log(colors.rainbow(`${nombreArchivo} creado`).underline) )
+    .catch( err => console.log(err) )
