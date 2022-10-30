@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "5a979fe5b449c266",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3d035745d66df68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a82296fc1075e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node course/Notes/7-yargs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b93e076fe21dd32a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5326600f5f7341c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "792a88ef238df38a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1354cea565566ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d16ca418a076132",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "600794454cfaef52",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dea13c6b9efa598b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b7e2c9e0e34c085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d10fc74b843827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Node course/Notes/7-yargs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f0b7697a29b1973",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Node course/Notes/7-yargs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f2ea7f860bfcf7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5af55a8afa0ad532",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Node course/Notes/7-yargs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b93e076fe21dd32a",
+  "lastOpenFiles": [
+    "Node course/Notes/6-NPM-y-aplicaciones.md",
+    "Node course/Notes/5-Bases-node.md",
+    "Node course/Notes/1-Blocking-vs-non-blocking.md",
+    "Node course/Notes/4-Refuerzo-de-JavaScript.md",
+    "5-Funciones-de-flecha.md",
+    "README.md",
+    "Node course/Notes/3-Nodemon.md",
+    "Node course/Notes/2-Ciclo-de-vida-de-un-proceso-en-Node.md",
+    "Pasted image 20221010045257.png"
+  ]
+}
